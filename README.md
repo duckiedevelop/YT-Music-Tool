@@ -1,5 +1,6 @@
 # YT-Music-Tool
-YT Music tool written in javascript using tampermonkey extension to work on all browsers
+YT Music tool written in javascript using tampermonkey extension to work on all browsers   
+> Huge shoutout to Gemini for fixing half my code and making my UI cleaner!
 
 > [!TIP]
 > If using Chrome, enable "allow user scripts" in tampermonkey settings
